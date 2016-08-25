@@ -1,5 +1,5 @@
 # ejercicio6_js
-## EJERCICIO 5
+## EJERCICIO 6
 En el siguiente flujograma se puede ver el pseudocódigo  del ejercicio 5:
  
 ###Flujograma
